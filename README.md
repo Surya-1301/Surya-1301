@@ -10,69 +10,57 @@
 ---
 
 ## 🚀 About Me
-- 👨‍💻 **Full-stack Developer** building scalable and modern web applications  
+- 👨‍💻 **Full-stack Developer** passionate about building modern, scalable web applications  
 - 🔭 Currently working on: **Workshop Feedback & Certificate System**  
-- 🌱 Learning: **Next.js, Docker, Advanced Firebase Cloud Functions**  
-- 💬 Ask me about: **React, Node.js, APIs, Firebase, Cloud Architecture**  
+- 🌱 Exploring: **React 14, TypeScript, Firebase Cloud Functions, and CI/CD pipelines**  
+- 💬 Ask me about: **React, Node.js, Firebase, REST APIs, Cloud Architecture**  
 - 📫 Reach me at: [your-email@example.com]  
-- ⚡ Fun fact: I automate repetitive tasks to make development faster!  
+- ⚡ Fun fact: I love automating repetitive tasks to save time!  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Full-Stack Tech Stack
 
 ### **Frontend**
-React • Next.js • TypeScript • Tailwind CSS • JavaScript (ES6+)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
 
 ### **Backend**
-Node.js • Express.js • Firebase (Auth, Firestore, Functions, Storage)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 ### **Databases**
-Firestore • MongoDB • MySQL
+<p>
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 ### **DevOps & Tools**
-Git • GitHub • Docker • Vercel • Postman • GitHub Actions
+<p>
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-## 📂 Projects by Category
+## 📂 Featured Project
 
-### **Full-Stack Projects**
-- **[Workshop Feedback & Certificate System](https://github.com/Surya-1301/Workshop-Feedback-Certificate-System)**  
-  An automated platform to collect feedback and generate/distribute certificates via email & WhatsApp.  
-  **Tech:** React, TypeScript, Firebase  
-  ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+### [Workshop Feedback & Certificate System](https://github.com/Surya-1301/Workshop-Feedback-Certificate-System)
+> An automated platform for collecting workshop feedback and generating/distributing certificates via email and WhatsApp.
 
-- *(Add more full-stack projects here)*
-
----
-
-### **Frontend Projects**
-- **[Project Name](https://github.com/Surya-1301/Your-Repo-Link)**  
-  Short description here.  
-  **Tech:** React, Tailwind CSS  
-
-- *(Add more frontend projects here)*
-
----
-
-### **APIs & Backend Services**
-- **[Project Name](https://github.com/Surya-1301/Your-API-Repo)**  
-  REST API or microservice description.  
-  **Tech:** Node.js, Express.js, MongoDB  
-
-- *(Add more APIs here)*
-
----
-
-### **Tools & Utilities**
-- **[Project Name](https://github.com/Surya-1301/Your-Tool-Repo)**  
-  CLI tool or automation script.  
-  **Tech:** Node.js, Bash  
-
-- *(Add more tools here)*
+- **Tech:** React 14, TypeScript, Firebase  
+- **Features:** OTP verification, automated email & WhatsApp delivery, real-time database  
 
 ---
 
