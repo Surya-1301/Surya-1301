@@ -77,13 +77,6 @@
 
 ---
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- This section will be automatically updated using GitHub Actions -->
-<!--END_SECTION:activity-->
-
----
 
 ## 🌐 Connect with Me
 <p>
