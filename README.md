@@ -64,26 +64,12 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Surya-1301&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-1301&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-1301&bg_color=ffffff&color=000000&line=0e75b6&point=000000&area=true&hide_border=true" />
-</p>
-
----
-
-
 ## 🌐 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/surya-pratap-singh-9751a3259">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ss058012@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://your-portfolio.com">
