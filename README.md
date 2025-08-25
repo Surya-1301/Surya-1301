@@ -10,12 +10,11 @@
 ---
 
 ## 🚀 About Me
-- 👨‍💻 **Full-stack Developer** passionate about building modern, scalable web applications  
-- 🔭 Currently working on: **Workshop Feedback & Certificate System**  
-- 🌱 Exploring: **React 14, TypeScript, Firebase Cloud Functions, and CI/CD pipelines**  
-- 💬 Ask me about: **React, Node.js, Firebase, REST APIs, Cloud Architecture**  
-- 📫 Reach me at: [your-email@example.com]  
-- ⚡ Fun fact: I love automating repetitive tasks to save time!  
+👨‍💻 I design and develop **end-to-end solutions**, from intuitive UIs to secure serverless backends.
+- 🔭 Currently working on: **Workshop Feedback & Certificate System** – automating feedback collection & certificate generation.
+- 🌱 Exploring **Next.js, Docker, and advanced CI/CD pipelines** for seamless deployments.
+- 💬 Ask me about **React, APIs, Firebase architecture, cloud-based workflows, and full-stack best practices**.
+- ⚡ I enjoy **optimizing performance, automating repetitive tasks, and contributing to open-source**. 
 
 ---
 
@@ -51,16 +50,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
----
-
-## 📂 Featured Project
-
-### [Workshop Feedback & Certificate System](https://github.com/Surya-1301/Workshop-Feedback-Certificate-System)
-> An automated platform for collecting workshop feedback and generating/distributing certificates via email and WhatsApp.
-
-- **Tech:** React 14, TypeScript, Firebase  
-- **Features:** OTP verification, automated email & WhatsApp delivery, real-time database  
 
 ---
 
