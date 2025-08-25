@@ -10,23 +10,46 @@
 ---
 
 ## 🚀 About Me
-- 👨‍💻 **Full-stack Developer** passionate about building modern web applications  
+- 👨‍💻 **Full-stack Developer** passionate about building modern, scalable web applications  
 - 🔭 Currently working on: **Workshop Feedback & Certificate System**  
-- 🌱 Exploring: **React 14, TypeScript, and Firebase Cloud Functions**  
-- 💬 Ask me about: **React, TypeScript, Firebase, and Cloud-based workflows**  
+- 🌱 Exploring: **React 14, TypeScript, Firebase Cloud Functions, and CI/CD pipelines**  
+- 💬 Ask me about: **React, Node.js, Firebase, REST APIs, Cloud Architecture**  
 - 📫 Reach me at: [your-email@example.com]  
-- ⚡ Fun fact: I love automating repetitive tasks to save time and effort!  
+- ⚡ Fun fact: I love automating repetitive tasks to save time!  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Full-Stack Tech Stack
 
+### **Frontend**
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### **Databases**
+<p>
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### **DevOps & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -45,8 +68,20 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Surya-1301&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-1301&layout=compact" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-1301&theme=default" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-1301&bg_color=ffffff&color=000000&line=0e75b6&point=000000&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- This section will be automatically updated using GitHub Actions -->
+<!--END_SECTION:activity-->
 
 ---
 
