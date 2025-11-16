@@ -11,7 +11,6 @@
 
 ## 🚀 About Me
 👨‍💻 I design and develop **end-to-end solutions**, from intuitive UIs to secure serverless backends.
-- 🔭 Currently working on: **Workshop Feedback & Certificate System** – automating feedback collection & certificate generation.
 - 🌱 Exploring **Next.js, Docker, and advanced CI/CD pipelines** for seamless deployments.
 - 💬 Ask me about **React, APIs, Firebase architecture, cloud-based workflows, and full-stack best practices**.
 - ⚡ I enjoy **optimizing performance, automating repetitive tasks, and contributing to open-source**. 
